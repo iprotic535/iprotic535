@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on comparative genomics to understand molecular evolution.<br>👯 I want to collaborate on projects containing multi-omics datasets.<br>🌱 I’m currently learning to Analyze Genomic Data in R.<br>💬 Ask me about molecular evolution.<br>
+🔭 I’m currently working on comparative genomics to understand molecular evolution.<br>👯 I want to collaborate on projects containing multi-omics datasets.<br>🌱 I’m currently analyzing Genomic Data in R.<br>💬 Ask me about molecular evolution.<br>
 
 
 ## 🌐 Socials:
